@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings against the Lord Russel upon his tryal for high-treason, at the Sessions-House in the Old-Baily, on the 13th. of this instant July, for conspiring against the life of the King, to levy war and rebellion, &amp;c. As also the tryals of William Hone, the joyner, John Rouse, and William Blake, for conspiring the death of the King, &amp;c.</title>
+            <author>Russell, William, Lord, 1639-1683, defendant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91041</idno>
+            <idno type="STC">Wing P3553aA</idno>
+            <idno type="STC">ESTC R233280</idno>
+            <idno type="EEBO-CITATION">42476313</idno>
+            <idno type="OCLC">ocm 42476313</idno>
+            <idno type="VID">151292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2254:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings against the Lord Russel upon his tryal for high-treason, at the Sessions-House in the Old-Baily, on the 13th. of this instant July, for conspiring against the life of the King, to levy war and rebellion, &amp;c. As also the tryals of William Hone, the joyner, John Rouse, and William Blake, for conspiring the death of the King, &amp;c.</title>
+                  <author>Russell, William, Lord, 1639-1683, defendant.</author>
+                  <author>Hone, William, d. 1683, defendant.</author>
+                  <author>Rouse, John, d. 1683, defendant.</author>
+                  <author>Blague, William, fl. 1683, defendant.</author>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex)</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rye House Plot, 1683.</term>
+               <term>Trials (Treason) --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:151292:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> PROCEEDINGS <hi>againſt the</hi> Lord RUSSEL, Upon His TRYAL for HIGH-TREASON, At the Seſſions-Houſe in the <hi>Old-Baily,</hi> on the 13th. of this Inſtant <hi>July,</hi> for Conſpiring againſt the Life of the <hi>KING,</hi> to Levy War and Rebellion, <hi>&amp;c.</hi> As alſo the Tryals of <hi>William Hone,</hi> the <hi>Joyner, John Rouſe.</hi> and <hi>William Blake,</hi> For Conſpiring the Death of the KING, <hi>&amp;c.</hi>
+            </head>
+            <p>AT the Seſſions-Houſe in the <hi>Old-Bayly, William Hone</hi> having been yeſterday Arraigned, and thereto Pleaded Not Guilty; was brought this Day upon his Tryal, who before he was put upon the Jury, deſired to Retract his former Plea of Not Guilty, and to Plead Guilty, as to the Conſpiracy, but would not own his procuring Arms, as in the Indictment was ſpecified: which Plea the Court refuſing to approve, unleſs he would directly Plead Guilty to the whole Indictment, the Jury was charged with him. And the Indictment Read, Importing that he not weigh<g ref="char:EOLhyphen"/>ing his Duty and Allegiance, but as a falſe Traytor, had Conſpired the King to depoſe from his Crown and Dignity, and him to Aſſaſſinate and Murder, to raiſe War and Rebellion, and to make a miſerable Slaughter of His Majeſties Subjects; and in order thereto, he had procured Arms, as Blunderbuſſes, Muſquets, Carbines, Piſtols, and the like. The Indictment Read, the King's Council proceeded to open the Nature of the Fact, and Relate the danger of the Conſpiracy, and of what Fatal Conſequence it would have proved, if it had taken Effect; with many particulars Relating to what Evidence was to be given againſt the Priſoner. After which, Mr. <hi>Keeling</hi> was Sworn, who Depoſed, that the Priſoner com<g ref="char:EOLhyphen"/>ing acquainted with him by the means of Mr. <hi>Goodenough,</hi> had at ſundry times declared, that he was tem<g ref="char:EOLhyphen"/>pered with, to enter into the Conſpiracy againſt the Life of the King; and that he was to be one in the intended Aſſaſſination of His Majeſty; And that particularly he was at a Conſult (as he verily believed) when the killing the Captain and Lieutenant was to be loped, or diſpatched by thoſe, meaning the King &amp; the Duke of <hi>York;</hi> and that once being with him at the <hi>Flanders Coffee-Houſe,</hi> he declared, That it would be never well, till the Black-Bird and Gold-finch were knock'd o'th' head, meaning the King and the Duke of <hi>York;</hi> And that in a Conſult where the Aſſaſſination of His Majeſty in his return from <hi>New-Market,</hi> when Mr. <hi>Weſt</hi> being in Company, demanded how many Swans Quills, Gooſe Quills, and a pair of Crow Quills, with Ink and Sand, were in readineſs? meaning thereby, Blunderbuſſes, Muſquets, Piſtols, Powder and Bullets, that he was to have; and that he was fully conſenting to Imbarque himſelf in the wicked Enterprize; and that a debate was held, what day the King was to return; and that diverſe o<g ref="char:EOLhyphen"/>pinions thereupon happened amongſt the Conſpirators.</p>
+            <p>Mr. <hi>Weſt</hi> being next Sworn, gave Evidence, That the Priſoner came to his Chamber in the <hi>Temple,</hi> and acquainted him, that he came from Mr. <hi>Goodenough,</hi> and that he had by his perſwaſion, conſented to be one that was to Aſſaſſinate the King. And that it was further agreed by the Conſpirators, that he ſhould be furniſhed with Twenty Pounds, or thereabouts, to provide him Horſe and Armes, and that he did procure Arms in order to the Deſign; with many other particulars, Relating to the Wicked Conſpiracy. This Evidence given, Sir, <hi>Nicholas Butler</hi> depoſed, That the Priſoner had Related, or Confeſſed Matter in Relation to the Wicked Conſpiracy, <hi>&amp;c.</hi> After which, the Evidence being ſum, med up, the Jury without departing the Court, gave their Verdict, that he was guilty, of <hi>High-Treaſon,</hi> as in the Indictment it was layed.</p>
+            <p>
+               <hi>Hone</hi> being Convicted as aforeſaid, the Lord <hi>Russel</hi> was Arraigned, who, thereupon deſired longer time to prepare for his Tryal; but that not being allowed, he accepted againſt the Jurors, as not be<g ref="char:EOLhyphen"/>ing Free-holders within the City of <hi>London,</hi> and thereupon deſired Council to be aſſigned him, to de<g ref="char:EOLhyphen"/>bate it as matter of Law; which was granted, and Mr. <hi>Polxpheen,</hi> Mr. <hi>Holt,</hi> and Mr. <hi>Ward,</hi> were aſſigned; whoſe opinions, after many Arguments between them and the King's Council, were over<g ref="char:EOLhyphen"/>ruled by the Court; and thereupon the Jury was called, of which the Priſoner Challeng'd about Thirty peremptory, but Twelve being Sworn, the Indictment was Read, the ſubſtance of which being to this Effect. That he, <hi>William Ruſſel,</hi> 
+               <abbr>Eſq</abbr> (for ſo was he ſtiled) together with <hi>James</hi> Duke of <hi>Monmouth, Ford</hi> Lord <hi>Gray,</hi> Sir <hi>Thomas Armstrong, Ferguſon.</hi> &amp;c. had Conſpired to leavy War and Rebellion in the Kingdom of <hi>England,</hi> to compaſs the death of His Majeſty, and to make a miſerable Slaughter amongſt the Subjects of our Lord the King, and to this Indictment he having pleaded not Guilty, Mr. <hi>North</hi> opened the matter of Fact, and was ſeconded by Mr. <hi>Attorny General,</hi> who at large declared the hainouſneſſe of the Crime, which in Evidence was to be given againſt the Noble Lord, Priſoner at the Bar, which was alſo Inſiſted upon by Mr. <hi>Soliciter General.</hi> After which, <hi>Colonel Rum<g ref="char:EOLhyphen"/>ſey</hi> was Sworn, who depoſed, That the Duke of <hi>Monmouth,</hi> the Lord <hi>Ruſſel,</hi> Sir. <hi>Thomas Armſtrong,</hi> and divers others, being at one Mr. <hi>Shepherds</hi> a <hi>Vintners,</hi> in the Pariſh of St. <hi>Nicholas Baſhaw,</hi> he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:151292:2" rendition="simple:additions"/>
+ſent to them by the Earl of <hi>Shaftsbury,</hi> to know what forwardneſſe they were in, as to an Inſurrecti<g ref="char:EOLhyphen"/>on; to which he received Anſwer, That Mr. <hi>Trenchard,</hi> who had promiſed to raiſe a 1000 Foot, and 4000 Horſe, to be aided in the Deſign, had certified them by a Letter, that he could not ſo ſoon Effect it, as was required; for that the perſons he deſired to allure <hi>to</hi> his Intereſt, would not ruſh upon a Deſign, e're they had provided for their Families, and that the Earl of <hi>Shaftsbury</hi> muſt be contented, at which the Earl ſeemed much diſaffected. He further depoſed, That divers Conſults had been held, in order to the raiſing men in divers places, and that an Inſurrection was to have been on the 9th. of <hi>No<g ref="char:EOLhyphen"/>vember:</hi> and that he, <hi>viz.</hi> Colonel <hi>Rumſey</hi> was to have been a Commander at <hi>Bristol,</hi> though in what Capacity was not nominated. And that it was agreed, That the Duke of <hi>Monmouth,</hi> the Lord <hi>Gray,</hi> and Sir <hi>Thomas Armſtrong,</hi> ſhould take a view of the Gurards in the <hi>Muſe,</hi> and at the <hi>Savoy,</hi> to ſee how they kept their Order.</p>
+            <p>After this Mr. <hi>Shepherd</hi> the Vintner was Sworn, who depoſed, That Mr. <hi>Ferguſen</hi> came to him in the Name of the Duke of <hi>Monmouth,</hi> and named divers Perſons that were to come to his Houſe, deſired a private Room, which they had accordingly; and that the Priſoner was there, and at that time a diſ<g ref="char:EOLhyphen"/>courſe happened about an inſurrection; and a Declaration was Read, purporting to a Relation of the Grievances of the Nation, tending to a Riſing, <hi>&amp;c.</hi> And that another time the Company met, but that he was not poſitive, whether the Priſoner was there then or no; but then, as at firſt, they were very pri<g ref="char:EOLhyphen"/>vat, and came on Foot, <hi>&amp;c.</hi>
+            </p>
+            <p>This depoſition made, the Lord <hi>Howard</hi> of <hi>Eſcrich</hi> was Sworn; who declared the whole Conſpiracy at large from time to time, how the Plot was carried on by the Earl of <hi>Shaftsbury</hi> in chief, and that he had declared his diſſatisfaction in the Coldneſſe of the Duke of <hi>Monmouth,</hi> and other Lords to Joyn with him; and that he had 10000 men in the City at his back; and ſeeing things were ſo far advanced, he would cauſe the Deſign to be put in Execution; and that divers Meſſages paſſed between the Earl and the Lords, in relation to putting off the deſign longer; which at laſt was from time to time put off, till the Earl, doubting his ſafety fled into <hi>Holland,</hi> where he dyed; after which a Council of ſix were conſtituted, who were the Duke of <hi>Munmouth,</hi> the Earl of <hi>Eſſex,</hi> the Lord <hi>Ruſsel,</hi> the Lord <hi>Howard</hi> (the now Witneſſe) Mr. <hi>Sidney,</hi> and Mr. <hi>Hambden</hi> the younger, who were to determine all matters as to the Inſurrection; and that they, to his knowledge, met at <hi>Hambdens</hi> Houſe, and at the Houſe of the Priſoner, to debate about the carrying on the Deſign, and that <hi>Aaron Smith</hi> was ſent into <hi>Scotland</hi> to perſwade the Gentry to Riſe. This, or to this effect, tho more at large, was the Evidence. After which, the Lord <hi>Ruſsel</hi> cal<g ref="char:EOLhyphen"/>led divers Evidences, ſome to declare what the Lord <hi>Howard</hi> had ſaid concerning the Plot, in relation to him, before the ſaid Lord <hi>Howard</hi> was taken Priſoner, and others for the moſt part, Perſons of Quali<g ref="char:EOLhyphen"/>ty, to teſtifie his ſincere Life and Converſation. After which, the Kings <hi>Council</hi> ſummed up the Evi<g ref="char:EOLhyphen"/>dence, and the Court gave the Charge, when the <hi>Jury</hi> going out, after ſome conſiderations, brought him in Guilty of High-Treaſon.</p>
+            <p>This Tryal over, <hi>John Rouſe,</hi> who was Yeſterday Arraigned, came upon his Tryal, for Treaſonably Conſpiring to compaſs the Death of the King, to Leavy War, raiſe Rebellion, <hi>&amp;c.</hi> to which, upon this Arraignment, he Pleaded not Guilty; but the Charge being opened by the King's Council, the Witneſſes for the King were Sworn, who depoſed, That he, the Priſoner, had been at divers Conſults, for the carry<g ref="char:EOLhyphen"/>ing on the Conſpiracy againſt the Life of the King, to ſtir up the people to Sedition, and Rebellion; with divers other Treaſonable Practiſes by him done, and approved of ſundry times, and in divers places; and he not being capable by Witneſſes to diſprove it, the Charge given, the Jury found him Guilty of High-Treaſon.</p>
+            <p>Next <hi>William Blake,</hi> a Sea-Captain, was Tryed for Treaſonable Conſpiracy, and intending to compaſs the Life of the King; in order to which, he, according to the Evidence, had prepared Shipping to Aſſault the <hi>Tower,</hi> and to batter it with Granadoes; and that in order thereto, he had conſulted with <hi>Richard Goodenough,</hi> and divers other Conſpirators; But the Proof being full, only by one Evidence the other not ſwearing poſitive, or not to what amounted to Treaſon, and the Law; in Caſe of High-Trea<g ref="char:EOLhyphen"/>ſon, requiring Two poſitive Evidences, the Priſoner was found not Guilty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
